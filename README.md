@@ -4,8 +4,8 @@
 <p align="center">Étudiant en informatique • Paris</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amine-kariouta">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-amine--kariouta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amine-kariouta" aria-label="LinkedIn">
+    <img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
 </p>
 
