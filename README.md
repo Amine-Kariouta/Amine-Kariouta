@@ -1,5 +1,4 @@
 <h1 align="center">Amine KARIOUTA</h1>
-<p align="center">Étudiant en informatique • Paris</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amine-kariouta">
